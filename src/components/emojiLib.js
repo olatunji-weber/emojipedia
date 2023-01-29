@@ -25,27 +25,27 @@ const emojis = [
     },
     {
         id: 5,
-        emoji: "",
-        term: "",
-        definition: ''
+        emoji: "🤪",
+        term: "Crazy Face",
+        definition: 'Something is insanely funny. The mood is exuberant - you are totally silly and crazy. Totally freaking out with enthusiasm or joy. Maybe someone has even told an indecent joke.'
     },
     {
-        id: 5,
-        emoji: "",
-        term: "",
-        definition: ''
+        id: 6,
+        emoji: "😤",
+        term: "Face With Look of Triumph",
+        definition: "White steam clouds are coming out of the smiley's nose. Is snorting contemptuously as a sign of superiority. Is proud and triumphing over someone else."
     },
     {
-        id: 5,
-        emoji: "",
-        term: "",
-        definition: ''
+        id: 7,
+        emoji: "🤯",
+        term: "Face With Exploding Head",
+        definition: 'I cannot believe it. or “That will blow you away.“ Something is very exciting or surprising. The exploding head can also be used to express shock or awe.'
     },
     {
-        id: 5,
-        emoji: "",
-        term: "",
-        definition: ''
+        id: 8,
+        emoji: "🥵",
+        term: "Overheated face",
+        definition: 'It is so hot, I will get a heat stroke right away! Bright red head, the tongue is hanging from the mouth and drops of sweat are on the forehead. The hottest place in the world lies in Iran: In 2005, the highest temperature of 70.7 °C was measured in the Dasht-e Lut desert.'
     }
 ]
 
